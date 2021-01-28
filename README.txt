@@ -1,6 +1,4 @@
 Student Name: Miriam Snow
-Student ID: 0954174
-Username: msnow01
 Date: November 29th, 2017
 
 Description of Program: 
